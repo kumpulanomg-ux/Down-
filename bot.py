@@ -30,9 +30,9 @@ from pyrogram.types import (
 • @DevVeGa
 '''
 
-API_ID = int(os.getenv('API_ID', 1724716))
-API_HASH = os.getenv('API_HASH', '00b2d8f59c12c1b9a4bc63b70b461b2f')
-BOT_TOKEN = os.getenv('BOT_TOKEN', '7849692546:AAECArNNZ4ukpOrfnLt_hHESdQG8MiN07wA')
+API_ID = int(os.getenv('API_ID', 24514748))
+API_HASH = os.getenv('API_HASH', '5dbe5df68358919d32cbfd341e0142f1')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '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')
 
 app = Client("social_downloader_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
