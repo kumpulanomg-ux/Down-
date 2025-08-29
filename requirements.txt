@@ -1,0 +1,4 @@
+aiohttp
+yt-dlp
+youtube-search-python
+pyrogram
