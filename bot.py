@@ -32,7 +32,7 @@ from pyrogram.types import (
 
 API_ID = int(os.getenv('API_ID', 24514748))
 API_HASH = os.getenv('API_HASH', '5dbe5df68358919d32cbfd341e0142f1')
-BOT_TOKEN = os.getenv('BOT_TOKEN', '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')
+BOT_TOKEN = os.getenv('BOT_TOKEN', '8180963583:AAFCAGjzavGPU-JgUYB3kP72Ce2h4KcoPzA')
 
 app = Client("social_downloader_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
